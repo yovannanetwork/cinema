@@ -1,0 +1,183 @@
+
+.search-box input{
+    padding: 5px;
+    font-size: 15px;
+    margin-top: 18px;
+}
+header span{
+    position: relative;
+    bottom: 30px;
+    left: 50px;
+    color: darkgray;
+}
+
+.search-box .fa-search{
+    margin-left: -25px;
+    color: darkgray;
+}
+.estrenos img{
+    width: 100%;
+}
+
+.cartelera img{
+    width: 100%;
+}
+.hero .banner{
+    background: #333 url(../img/banner.jpg) no-repeat;
+    background-size: contain;
+}
+
+.movie-info{
+    padding: 20px;
+    padding-bottom: 20px;
+}
+.estrenos img{
+    width: 100%;
+}
+.hero .banner img{
+    position: relative;
+    margin: 130px;
+    padding: 30px;
+    left: 30px;
+}
+.hero h1{
+    font-size: 35px;
+    border-bottom: 2px solid darkgray;
+    padding-bottom: 5px;
+}
+.movie-info{
+    color: darkgray;
+}
+.movie-info span{
+    color: #369A34;
+    border: 1px solid #369A34;
+    padding: 2px;
+    position: relative;
+    
+}
+tr th{
+   padding: 3px;
+}
+.movie-info {
+    position: ;
+}
+.editar{
+    padding-top: 10px;
+}
+.movie-info input{
+    background-color: #DEB10E;
+    color: white;
+    border-radius: 8px;
+    text-transform: uppercase;
+    position: relative;
+    padding: 10px 10px 10px 30px;
+    margin: 5px;
+}
+.movie-info .fa-youtube-play{
+    position: relative;
+    right: 150px;
+    color: white;
+}
+.movie-info button{
+    background-color: #BE8835;
+    border-radius: 8px;
+    text-transform: uppercase;
+    color: white;
+    display: block;
+    position: relative;
+    padding: 10px 10px 10px 30px;
+    margin: 5px;
+    
+}
+.movie-info .fa-ticket{
+    position: relative;
+    color: white;
+    bottom: 33px;
+    left: 15px;
+}
+.estrenos{
+    background-color: #DEB10E;
+    padding: 20px;
+    margin: 0px 53px;
+}
+
+.estrenos img{
+    width: 160px;
+    height: 210px;
+}
+.trailer{
+    margin: 0px 53px;
+}
+.contenido h1{
+    font-size: 30px;
+    padding: 20px 40px;
+}
+.contenido h1 small{
+    color: darkgrey;
+    font-size: 25px;
+}
+.contenido button{
+    background-color: #BE8835;
+    border-radius: 8px;
+    text-transform: uppercase;
+    color: white;
+    display: block;
+    position: relative;
+    padding: 25px 25px 25px 40px;
+    margin-left: 40px;
+}
+.contenido .fa-ticket{
+    color: white;
+    position: relative;
+    bottom: 45px;
+    left: 23px;
+}
+.contenido .rojo p{
+    color: palevioletred;
+    margin-left: 40px;
+}
+.contenido .news h3 {
+    color: darkgray;
+    padding-top: 40px;
+    padding-left: 10px;
+    
+}
+.contenido .news p{
+    color: darkgray;
+    border-bottom: 1px solid darkgray;
+    padding-bottom: 10px;
+}
+.contenido .news span{
+    color: darkgray;
+    font-size: 12px;
+}
+.contenido .news a{
+    text-decoration: none;
+    color: #BE8835;
+    padding: 5px 10px;
+}
+.contenido .news li{
+    list-style: none;
+    padding: 10px;
+}
+.cartelera{
+    margin: 0px 53px;
+    padding: 20px 0px;
+}
+.cartelera img{
+    width:;
+    height: 250px;
+}
+footer{
+    background: #ECE9E9;
+    color: darkgray;
+    padding: 45px;
+}
+footer p{
+    font-size: 13px;
+    text-align: left;
+    padding-right: 400px;
+}
+p.copy{
+    padding: 20px 0px;
+}
